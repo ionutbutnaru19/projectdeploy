@@ -24,14 +24,6 @@
         </select><br><br>
         <input type="submit" value="Update Account Information">
     </form>
-    <br>
-    <form>
-        <h2>Payment Information</h2>
-        <label for="card">Card Number:</label>
-        <input type="text" id="card" name="card"><br><br>
-        <label for="expiry">Expiry Date:</label>
-        <input type="month" id="expiry" name="expiry"><br><br>
-        <input type="submit" value="Update Payment Information">
-    </form>
+
 </body>
 </html>
